@@ -1,0 +1,17 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "I am learning npm",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ananya",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^12.0.1",
+    "qr-image": "^3.2.0",
+    "superheroes": "^4.0.0"
+  }
+}
